@@ -70,7 +70,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="YOUR_PROJECT_IMAGE_1" alt="Project 1 Screenshot" width="100%" />
+      <img src="https://i.ibb.co.com/cXbzg9LR/tickify.png" alt="Project 1 Screenshot" width="100%" />
       <h3 align="center">Project One</h3>
       <p>
         A short but strong summary of what this project does. Focus on the problem it solves,
@@ -78,8 +78,8 @@
       </p>
       <p><strong>Tech:</strong> Next.js, React, Node.js, MongoDB, Tailwind</p>
       <p>
-        <a href="YOUR_PROJECT_LINK_1" target="_blank">Live Demo</a> •
-        <a href="YOUR_PROJECT_GITHUB_1" target="_blank">Source Code</a>
+        <a href="https://tickify-client-next.vercel.app" target="_blank">Live Demo</a> •
+        <a href="https://github.com/Rabby-khan-04/tickify-client-next" target="_blank">Source Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
