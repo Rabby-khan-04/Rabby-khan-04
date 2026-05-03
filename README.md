@@ -86,8 +86,7 @@
       <img src="YOUR_PROJECT_IMAGE_2" alt="Project 2 Screenshot" width="100%" />
       <h3 align="center">Project Two</h3>
       <p>
-        A short but strong summary of what this project does. Mention the core feature,
-        any interesting technical challenge, and the result.
+        Tickify is a modern movie ticket booking platform designed for a smooth and engaging cinema experience. It lets users explore now showing and upcoming movies, watch trailers, choose seats, and book tickets with a clean, intuitive interface. With features like secure payments, quick booking, and personalized recommendations, Tickify makes discovering and enjoying movies simple and hassle-free.
       </p>
       <p><strong>Tech:</strong> React, Redux, Express, MongoDB, Firebase</p>
       <p>
