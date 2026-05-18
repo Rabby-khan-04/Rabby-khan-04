@@ -82,16 +82,16 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="YOUR_PROJECT_IMAGE_2" alt="Project 2 Screenshot" width="100%" />
+      <img src="https://i.ibb.co.com/xSmhsCSs/hire-Pilot-ai.png" alt="Project 2 Screenshot" width="100%" />
       <h3 align="center">Project Two</h3>
       <p>
-        A short but strong summary of what this project does. Focus on the problem it solves,
-        the impact it creates, and why it stands out.
+       HirePilot AI is a smart career preparation platform designed to take the guesswork out of job hunting. Instead of wondering what to improve, users upload their resume, add a target job profile, and let AI do the heavy lifting — matching skills, identifying gaps, and building a personalized roadmap to get interview-ready.
+With features like AI-powered resume analysis, skill gap detection with priority levels, and week-by-week learning roadmaps, HirePilot AI turns career prep into a clear, actionable workflow.
       </p>
-      <p><strong>Tech:</strong> React, Redux, Express, MongoDB, Firebase</p>
+      <p><strong>Tech:</strong>Next.js, React, Node.js, MongoDB, Tailwind, Gemini AITech: Next.js, React, Node.js, MongoDB, Tailwind, Gemini AI</p>
       <p>
-        <a href="YOUR_PROJECT_LINK_2" target="_blank">Live Demo</a> •
-        <a href="YOUR_PROJECT_GITHUB_2" target="_blank">Source Code</a>
+        <a href="https://hire-pilot-ai.vercel.app/" target="_blank">Live Demo</a> •
+        <a href="https://github.com/Rabby-khan-04/HirePilot.ai" target="_blank">Source Code</a>
       </p>
     </td>
   </tr>
